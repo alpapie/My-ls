@@ -13,7 +13,7 @@ My-ls is a custom command-line tool programmed in Go that replicates the functio
 
 ## Requirements
 
-- Go (version X.X.X)
+- Go (version 1.20)
 
 ## Installation
  Clone the repository:
